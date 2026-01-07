@@ -1,4 +1,4 @@
-# DGCPath: Distribution-Aware Generative Contrastive Framework for Self-supervised Path Representation Learning
+# Distribution-Aware Generative Contrastive Framework for Self-supervised Path Representation Learning
 
 The pytorch implementation of paper " DGCPath: Distribution-Aware Generative Contrastive Framework for Self-supervised Path Representation Learning"
 
